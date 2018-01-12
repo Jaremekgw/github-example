@@ -7,3 +7,8 @@ How to Contribute
 =================
 
 Just fork the original repo at pragmaticlearning/github-example, make your changes and send over a Pull Request.
+
+It is Polish comment to this changes
+====================================
+
+Testowanie zmian tego projektu dla testowego projektu.
